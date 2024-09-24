@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Benard
-- 👀 I’m interested in UI/UX design
+- 👀 I’m interested in UI/UX design and software engineering
 - 🌱 I’m currently learning at "The Co-operative University of Kenya"
 - 💞️ I’m looking to collaborate on anything involing UI/UX design
-- 📫 How to reach me ...
+- 📫 How to reach me:
+  Email @ bennah955@gmail.com
 
 <!---
 bennah995/bennah995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
