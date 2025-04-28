@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Benard
-- 👀 I’m interested in UI/UX design and software engineering
-- 🌱 I’m currently taking IT at "The Co-operative University of Kenya"
+- 👀 I’m interested in full-stack development
+- 🌱 I’m currently taking Frontend Development at ALX Africa
 - 💞️ I’m looking to collaborate on anything involing UI/UX design
 - 📫 How to reach me:
   Email @ bennah955@gmail.com
